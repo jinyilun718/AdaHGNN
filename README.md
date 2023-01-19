@@ -1,1 +1,2 @@
-# AdaHGNN The code will be published after the article is accepted.
+# AdaHGNN 
+The code will be published after the article is accepted.
