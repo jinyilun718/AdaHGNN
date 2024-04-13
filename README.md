@@ -5,11 +5,9 @@
 ## Enviromment
 
 ```
-python 3.7  
-cuda 11.0  
-torch 1.11.0
-torch-gemotric 2.0.4
-networkx 2.8.4
+python 3.8  
+torch 2.0.0
+networkx 3.0
 ```
 
 
