@@ -22,7 +22,7 @@ python main.py --hyper_type=coauthorship --hyper_name=cora
 ```
 
 ```
-#cora-coauthorship
+#cora-cocitation
 python main.py --hyper_type=cocitation --hyper_name=cora
 ```
 ```
